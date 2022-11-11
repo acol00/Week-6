@@ -1,6 +1,6 @@
 file_type: csv
 dataset_name: testfile
-file_name: test_data
+file_name: data
 table_name: edsurv
 inbound_delimiter: ','
 outbound_delimiter: '|'
