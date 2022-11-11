@@ -1,0 +1,31 @@
+file_type: csv
+dataset_name: testfile
+file_name: test_data
+table_name: edsurv
+inbound_delimiter: ','
+outbound_delimiter: '|'
+skip_leading_rows: 0
+columns:
+    - actualelapsedtime
+    - airtime
+    - arrdelay
+    - arrtime
+    - crsarrtime
+    - crsdeptime
+    - crselapsedtime
+    - cancelled
+    - dayofweek
+    - dayofmonth
+    - depdelay
+    - deptime
+    - dest
+    - distance
+    - diverted
+    - flightnum
+    - month
+    - origin
+    - tailnum
+    - taxiin
+    - taxiout
+    - uniquecarrier
+    - year
